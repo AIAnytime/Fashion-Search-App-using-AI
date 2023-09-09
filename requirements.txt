@@ -1,0 +1,7 @@
+farm-haystack
+gradio
+streamlit
+fastapi
+uvicorn 
+python-multipart 
+jinja2
